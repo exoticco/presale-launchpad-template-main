@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f0f0f;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  padding: 40px 20px;
+  background: linear-gradient(135deg, #ff4d4d, #1a1a1a);
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+.timer {
+  margin: 40px 0;
+}
+
+#countdown {
+  font-size: 2rem;
+  margin-top: 10px;
+  font-weight: bold;
+  color: #ffcc00;
+}
+
+.cta button {
+  background: #ff4d4d;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  transition: 0.3s;
+}
+
+.cta button:hover {
+  background: #ff1a1a;
+}
+
+footer {
+  margin-top: 50px;
+  font-size: 0.9rem;
+  color: #aaa;
+}
